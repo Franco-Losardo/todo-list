@@ -1,1 +1,1 @@
-<?php require_once("js/index.js") ?>
+<?php require("js/index.js") ?>
