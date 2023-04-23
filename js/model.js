@@ -7,7 +7,7 @@
             {
                 id:0,
                 title: "Made by",
-                description: '<a href="http://francolosardo.com" target="_blank">Franco Losardo</a>',
+                description: '<a href="https://flosardo.github.io/portafolio/" target="_blank">Franco Losardo</a>',
                 completed: false
             }
             ]            
